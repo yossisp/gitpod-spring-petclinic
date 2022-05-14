@@ -1,0 +1,10 @@
+target/*
+.settings/*
+.classpath
+.project
+.factorypath
+.attach_pid*
+*.iml
+/target
+.sts4-cache/
+_site/
